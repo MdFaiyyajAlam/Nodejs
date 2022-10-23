@@ -1,0 +1,160 @@
+What is Node js ?
+<!-- 
+* Node is not a Language.
+* This is a Server Environment.
+* Node js can connect with database.
+* code and syntax is very similar to JavaScript.
+* But not exactly the same. 
+* Node js free ,open-source. 
+* Node js use Chrome's V8 engine to execute code.  -->
+
+
+<!-- Why do we use Node -->
+<!-- 
+* Node js mostly used for API. 
+* So we can connect the same database with Web App, Mobile App.
+* Node is easy to understand who know JavaScript. 
+* Nose is super-fast for APIs. 
+* With Node and JavaScript, you can become full Stack Developer.  -->
+
+
+<!-- History and More -->
+<!-- 
+* First Release: 27 May, 2009
+* Current Version: 16.4 
+* Written in C, C++, JavaScript -->
+
+<!-- JavaScript & Node are the Same? -->
+<!-- 
+* JavaScript and Node js Code Syntax is Same
+* If you know JavaScript you can easily understand Node
+* But both are not exactly the same
+* You can not connect JavaScript to DB
+* Node can connect with DB
+* Node js run on the server side
+* JavaScript is run on the browser -->
+
+<!-- Why Should Learn Node -->
+<!-- 
+* If  you are JavaScript developer then you can easy learn Node. 
+* You can become a full-stack developer
+* Free and in Demand for Jobs
+* Salary is also good as compared to web-developer or PHP developer.  -->
+
+<!-- Major Topics -->
+<!-- 
+* What is Node js
+* How it works
+* Install and run
+* Make Basic API
+* Use with express.js 
+* UI with Node
+ * UI event 
+ * Forms 
+ * WebPages etc 
+
+* Node js Event  
+* Middleware
+* Major Package
+* Connect with DB
+* Make Major API 
+* API validation 
+* Interview Questions. 
+* Much More -->
+
+
+<!-- Basic Before Getting Start -->
+<!-- 
+* What are Client and Server Sides?
+* Where do we use node (Client or Server Side)?
+* How Node js use JavaScript?
+* What developer Make with Node js? -->
+
+
+<!-- What developer Make with Node js ? -->
+<!-- 
+* Developer Make API with Node js
+* So we can connect Server with Client 
+* Node can make API for web, Android and IOS etc. 
+* Make can also make website -->
+
+
+<!-- Install and Setup Node Js  -->
+<!-- 
+* Download Node js
+* Install NPM and Node 
+* List of Recommended Code Editor -->
+
+
+<!-- First Script with Node  -->
+<!-- 
+* Script with command Line
+* Make Folder and file 
+* Write First Code and Run 
+* Interview Questions  -->
+
+
+<!-- Fundamentals of Node js  -->
+<!-- 
+* JavaScript Fundamentals for Node js. 
+* Conditions, Loops and Array
+* The import function and variables from another file. 
+* Interview Questions -->
+
+<!-- Core Module in Node js  -->
+<!-- 
+* What are the core modules?
+* What are global modules?
+* Global Model example
+* Non-global Module with example
+* Interview Questions -->
+
+# Make Basic Server Outputmon Browser 
+
+* Make Basic Server
+* Function as parameter in node .
+* Arrow function
+* Get output on Browser
+* Interview Questions
+
+
+# All About Package.json
+
+* What is packege file ?
+* How to make it ?
+* CHeck the file in detail.
+* Install external Package
+* Interview Questions
+
+# Small Challange For you 
+
+* Challenge for you?
+* What happens if the node_module folder is deleted?
+* Correct way to push data on git 
+* Interview Questions
+
+
+# Nodemon | time saving modules
+
+* What it the Nodemon packege
+* How to install it?
+* How to use it?
+* Interview Questions
+
+# Node js is async
+
+1. Run First Script
+2. Run Second Script (Complex data)
+   -- it will not wait to finish 2nd script --
+3. Run Third Script
+4. continue ....
+
+# Make a simple API
+
+* Make a server.
+* create header and API body.
+* Create an API with static data. 
+* Put data in another file.
+* Interview Questions
+
+

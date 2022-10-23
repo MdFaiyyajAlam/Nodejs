@@ -1,0 +1,5 @@
+api key
+
+acfe18382f2091e99993546845ce0b46
+
+api.openweathermap.org/data/2.5/weather?q=Pune&appid=acfe18382f2091e99993546845ce0b46
